@@ -1,3 +1,3 @@
-# BlockChain
+# Mask R-CNN
 
-This is a personal BlockChain for the understanding of the subject for the fulfillment of Internship at IIT Delhi. This has been coded in Python. This was done while completing a Udemy course on the same for which the link is given: https://www.udemy.com/course/build-a-blockchain-cryptocurrency-using-python/
+This is a project for understanding how Mask Region-based Vonvolutional Neural Networks. This was done by referencing the work that has been published on: https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/
